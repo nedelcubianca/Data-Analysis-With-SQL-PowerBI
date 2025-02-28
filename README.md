@@ -1,4 +1,4 @@
-# Data-Analysis-With-SQL-PowerBI
+
 
 # SQL and Power BI Integration Project
 
